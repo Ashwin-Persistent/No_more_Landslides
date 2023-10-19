@@ -119,6 +119,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 - **Bhagyashri Gaikwad** - Obtaining data, Model testing, UI
 - **Chandan Abhyankar** - Project ideation, Project co-ordination and mentoring
 - **Suraj Gudaji** - Model training, UI
+- **Aniruddha Nayek** - Obtaining data, Simulation of obtaining geological-information through sensors
 
 ### License
 
